@@ -1,9 +1,10 @@
 [package]
 name = "jurl"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
 description = "A curl-like HTTP client written in Rust"
-authors = ["jurl developers"]
+authors = ["smilexth"]
+license = "MIT"
 
 [dependencies]
 reqwest = { version = "0.11", features = ["blocking", "json"] }
