@@ -165,7 +165,7 @@ cargo build
 
 ## License
 
-MIT License
+MIT
 
 ## Contributing
 
