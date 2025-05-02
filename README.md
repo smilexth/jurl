@@ -20,7 +20,7 @@ A curl-like HTTP client written in Rust that provides a simple command-line inte
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/jurl.git
+git clone https://github.com/smilexth/jurl.git
 cd jurl
 ```
 
